@@ -5,7 +5,7 @@ This repository hosts the scripts and files used to produce the computational re
 If you wish to refer to the methods and results of this project, please cite our paper : *citation*
 
 # Table of contents 
-Building the amyloid
-MD-trajectories
-Veloxchem scripts
-VIAMD files
+- [Building the amyloid]
+- [MD-trajectories]
+- [Veloxchem scripts]
+- [VIAMD files]
