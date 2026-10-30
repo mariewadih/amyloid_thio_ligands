@@ -11,7 +11,7 @@ The MD files (.pdb, topologies, .mdp files etc.) as well as the VIAMD files used
 
 The files are grouped into the following folders :
 - For building the amyloid -> amyloid_without_ligands_10ns
-- For finding the adsorption sites of TCB-3 onto the (amyloid_with_ligands_40ns 
+- For finding the adsorption sites of TCB-3 onto the amyloid -> amyloid_with_ligands_40ns 
 
 # QM calculations
 The Veloxchem scripts used for optimizing the ligands and calculating the absorption spectra can be found in the respective python files.
