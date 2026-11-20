@@ -1,6 +1,6 @@
 import veloxchem as vlx
 
-molecule = vlx.Molecule.read_xyz_file("TCB_conf1.xyz")
+molecule = vlx.Molecule.read_xyz_file("TCB_conformer1.xyz")
 basis = vlx.MolecularBasis.read(molecule, "def2-svp")
 
 molecule.set_charge(0)
